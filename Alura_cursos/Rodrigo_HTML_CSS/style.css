@@ -1,0 +1,72 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
+header {
+    background: #BBBBBB;
+    padding: 10px 0;
+}
+
+.caixa {
+    width: 20px;
+}
+
+.banner-kicks {
+    width: 100%;
+}
+
+.titulo-principal {
+    text-align: center;
+    font-size: 2em;
+}
+
+.principal {
+    padding: 3em 0;
+    width: 940px;
+    margin: 0 auto;
+}
+
+.mapa {
+    padding: 3em 0;
+    background: linear-gradient(#FEFEFE, #888888);
+}
+
+.mapa-conteudo {
+    width: 100%;
+    text-align: center;
+}
+
+.video {
+    width: 560px;
+    margin: 2em auto;
+}
+
+/*.caixa {
+    position: relative;
+    width: 940px;
+    margin: 0 0 auto;
+}*/
+
+nav {
+    position: absolute;
+    top: 50px;
+    right: 20px;
+}
+
+nav li {
+    display: inline;
+    margin: 0 0 0 15px;
+}
+
+nav a {
+    text-transform: uppercase;
+    color: #000000;
+    font-weight: bold;
+    font-size: 22px;
+    text-decoration: none;
+}
+
+footer {
+    width: 100%;
+    
+}
